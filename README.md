@@ -52,6 +52,10 @@ Press **Q** to exit the application.
 | Thumb open near colour palette | Change colour |
 | Fist                           | Clear canvas  |
 
+## Demo
+
+![Gesture-Controlled Virtual Canvas Demo](assets/demo.gif)
+
 ## Project Purpose
 
 This project demonstrates practical computer vision, real-time video processing, hand landmark tracking, gesture recognition, and rapid prototyping in Python.
