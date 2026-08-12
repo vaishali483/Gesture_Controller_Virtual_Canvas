@@ -22,8 +22,8 @@ The implementation tracks hand landmarks from the webcam feed and uses simple ge
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/vaishali483/Gesture_Controller_Virtual_Canvas.git
+cd Gesture_Controller_Virtual_Canvas
 
 python -m venv .venv
 ```
