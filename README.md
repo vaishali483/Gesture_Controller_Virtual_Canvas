@@ -54,7 +54,7 @@ Press **Q** to exit the application.
 
 ## Demo
 
-![Gesture-Controlled Virtual Canvas Demo](assets/demo.gif)
+![demo](assets/demo.gif)
 
 [Watch the full demo video](assets/demo.mp4)
 
